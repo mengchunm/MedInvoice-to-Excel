@@ -2,10 +2,10 @@
 
 **[English README](https://github.com/mengchunm/MedInvoice-to-Excel/blob/main/English%20README.md)** | **中文说明**
 
-MedBill2Excel 是一个自动化工具，利用 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 从医疗发票图片中识别文字，并通过 Ollama 对内容进行智能分类，最终生成结构化的 Excel 表格。
+MedInvoice-to-Excel 是一个自动化工具，利用 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 从医疗发票图片中识别文字，并通过 Ollama 对内容进行智能分类，最终生成结构化的 Excel 表格。
  适用于 **医院、保险、财务** 等需要批量处理医疗票据的场景。
 
-MedBill2Excel is an automated tool that extracts text from medical invoices with PaddleOCR, classifies it via Ollama, and outputs structured Excel sheets—ideal for bulk processing in healthcare, insurance, and finance.
+MedInvoice-to-Excel is an automated tool that extracts text from medical invoices with PaddleOCR, classifies it via Ollama, and outputs structured Excel sheets—ideal for bulk processing in healthcare, insurance, and finance.
 
 ------
 
