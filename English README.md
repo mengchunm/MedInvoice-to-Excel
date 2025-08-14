@@ -2,7 +2,7 @@
 
 English README | [Chinese Version](https://github.com/mengchunm/MedInvoice-to-Excel/blob/main/README.md)
 
-MedBill2Excel is an automated tool that uses PaddleOCR to extract text from medical invoice images, then classifies the content intelligently via Ollama, and finally generates structured Excel spreadsheets.
+MedInvoice-to-Excel is an automated tool that uses PaddleOCR to extract text from medical invoice images, then classifies the content intelligently via Ollama, and finally generates structured Excel spreadsheets.
 It is suitable for hospitals, insurance companies, and finance departments that need to process large batches of medical receipts.
 
 ## Features
